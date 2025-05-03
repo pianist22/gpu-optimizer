@@ -70,3 +70,4 @@ gpu_optimizer/monitor.py for GPU monitoring
 Contributing:
 
 You’re welcome to contribute by forking the repo, starring it, and submitting pull requests. Open an issue to report bugs or request features.
+For video access this link: (video)[https://drive.google.com/file/d/1Uk3FmriaxkWEv3SlpF1Ra6gN1XS8Nb4d/view?usp=sharing]
